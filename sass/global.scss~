@@ -1,0 +1,10 @@
+/* Global - On every page
+-----------------------------------------------------*/
+@charset "UTF-8";
+@import 'bootstrap/bootstrap';
+
+body {
+  background: #fff;
+
+
+}
